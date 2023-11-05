@@ -200,7 +200,7 @@ body {
     margin-top: 20rem;
   }
 }
-@media (max-width: 428px) {
+@media (max-width: 400px) {
   html {
     font-size: 30%;
   }
